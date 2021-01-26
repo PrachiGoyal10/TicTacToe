@@ -1,0 +1,17 @@
+table{
+border : solid 2px;
+}
+
+.maze{
+align: center;
+
+
+}
+
+td{
+border: solid 2px;
+height: 150px;
+width: 150px;
+font-size:100px;
+text-align: center;
+}
